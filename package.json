@@ -1,0 +1,19 @@
+{
+  "name": "stagomatic3000",
+  "version": "1.0.0",
+  "description": "The Stag-o-Matic 3000.",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollerenshaw/stagomatic3000.git"
+  },
+  "author": "Mark Ollerenshaw <mollerenshaw@zepler.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mollerenshaw/stagomatic3000/issues"
+  },
+  "homepage": "https://github.com/mollerenshaw/stagomatic3000#readme"
+}
